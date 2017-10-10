@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/app-337ec512988839ea22c7.js","b3448a8adccf4aa89d5b0ff90e73ec8f"],["/app-da0cb1124c4803c7390a.js","c20d778b0102edd30bcb5c0d79bbfcbd"],["/commons-b513f12c24e6b90b3268.js","314735270818fb46063d367f1bc39c42"],["/index.html","21e403de0352af1aad45ab7846854369"],["/offline-plugin-app-shell-fallback/index.html","9075676f809b0b23a39ba7d9908ef88b"]];
+var precacheConfig = [["/risman.id/app-337ec512988839ea22c7.js","b3448a8adccf4aa89d5b0ff90e73ec8f"],["/risman.id/app-91074c6f1aa89ba468ca.js","1e5fdefe8cb8c7b1bcac8b7407cd8c5b"],["/risman.id/app-da0cb1124c4803c7390a.js","c20d778b0102edd30bcb5c0d79bbfcbd"],["/risman.id/commons-b513f12c24e6b90b3268.js","f6c1acd51bd4b593a4f3ddccac6de98c"],["/risman.id/index.html","a4e866d0a76d013ccb28fdf0d44dfc99"],["/risman.id/offline-plugin-app-shell-fallback/index.html","4d96cd5713de1f67677ff9697ae0b68e"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 

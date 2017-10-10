@@ -5,12 +5,12 @@
       "component---src-templates-tag-template-js-637c2e45354ff70f84aa.js.map"
     ],
     "path---posts-perfecting-the-art-of-perfection": [
-      "path---posts-perfecting-the-art-of-perfection-ed05dcaff0cc7d8ea1c2.js",
-      "path---posts-perfecting-the-art-of-perfection-ed05dcaff0cc7d8ea1c2.js.map"
+      "path---posts-perfecting-the-art-of-perfection-8f91bfc2667d1259ab0d.js",
+      "path---posts-perfecting-the-art-of-perfection-8f91bfc2667d1259ab0d.js.map"
     ],
     "path---posts-the-birth-of-movable-type": [
-      "path---posts-the-birth-of-movable-type-f66a9713286cde1659ca.js",
-      "path---posts-the-birth-of-movable-type-f66a9713286cde1659ca.js.map"
+      "path---posts-the-birth-of-movable-type-bb10e4c45aa8a32a2a3b.js",
+      "path---posts-the-birth-of-movable-type-bb10e4c45aa8a32a2a3b.js.map"
     ],
     "path---tags-linotype": [
       "path---tags-linotype-4ebb29811cb98106ba7d.js",
@@ -21,8 +21,8 @@
       "path---categories-design-culture-6aa6862cecbca8b4923f.js.map"
     ],
     "path---posts-humane-typography-in-the-digital-age": [
-      "path---posts-humane-typography-in-the-digital-age-23a733bd9b0bc37db3f8.js",
-      "path---posts-humane-typography-in-the-digital-age-23a733bd9b0bc37db3f8.js.map"
+      "path---posts-humane-typography-in-the-digital-age-e267e3816eca0f4b1efc.js",
+      "path---posts-humane-typography-in-the-digital-age-e267e3816eca0f4b1efc.js.map"
     ],
     "path---categories": [
       "path---categories-fb376fbf75e79886bc6e.js",
@@ -89,8 +89,8 @@
       "path---tags-lettering-1ea3990cb2cde2040e98.js.map"
     ],
     "path---posts-the-origins-of-social-stationery-lettering": [
-      "path---posts-the-origins-of-social-stationery-lettering-9165c54424202b2d3086.js",
-      "path---posts-the-origins-of-social-stationery-lettering-9165c54424202b2d3086.js.map"
+      "path---posts-the-origins-of-social-stationery-lettering-16ec7728a588e3062756.js",
+      "path---posts-the-origins-of-social-stationery-lettering-16ec7728a588e3062756.js.map"
     ],
     "path---tags-gatsby": [
       "path---tags-gatsby-6619968aa791fdf329b8.js",
@@ -127,8 +127,8 @@
       "component---src-pages-404-jsx-3d0441dd1a11b2f3a35b.js.map"
     ],
     "path---contact": [
-      "path---contact-067a6189f85ea47564d1.js",
-      "path---contact-067a6189f85ea47564d1.js.map"
+      "path---contact-3cb09ae74bdf3cd8e45f.js",
+      "path---contact-3cb09ae74bdf3cd8e45f.js.map"
     ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-04736e8380e99b530338.js",
@@ -151,9 +151,9 @@
       "path---tags-monotype-06d52e7cd05467a9fa10.js.map"
     ],
     "app": [
-      "app-da0cb1124c4803c7390a.js",
+      "app-91074c6f1aa89ba468ca.js",
       "build-js-styles.css",
-      "app-da0cb1124c4803c7390a.js.map",
+      "app-91074c6f1aa89ba468ca.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -165,16 +165,16 @@
       "path---tags-web-development-6084b8345613129e4f1d.js.map"
     ],
     "path---posts-a-brief-history-of-typography": [
-      "path---posts-a-brief-history-of-typography-6225bdccd31d01d9c214.js",
-      "path---posts-a-brief-history-of-typography-6225bdccd31d01d9c214.js.map"
+      "path---posts-a-brief-history-of-typography-1540f3a72bf8ca9617de.js",
+      "path---posts-a-brief-history-of-typography-1540f3a72bf8ca9617de.js.map"
     ],
     "path---404": [
       "path---404-ce8a5eb9789115c0af77.js",
       "path---404-ce8a5eb9789115c0af77.js.map"
     ],
     "path---about": [
-      "path---about-bc72ad190ea5efbf3ecb.js",
-      "path---about-bc72ad190ea5efbf3ecb.js.map"
+      "path---about-8cc1f9d3fa15d62d4ac0.js",
+      "path---about-8cc1f9d3fa15d62d4ac0.js.map"
     ]
   }
 }
