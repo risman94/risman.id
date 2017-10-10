@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Blog by John Doe]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Tue, 10 Oct 2017 09:13:45 GMT</lastBuildDate><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://alxshelepenok.github.com/gatsby-starter-lumen/posts/humane-typography-in-the-digital-age/</link><guid isPermaLink="false">https://alxshelepenok.github.com/gatsby-starter-lumen/posts/humane-typography-in-the-digital-age/</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kamarul Risman]]></title><description><![CDATA[Kamarul Risman]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Tue, 10 Oct 2017 12:42:39 GMT</lastBuildDate><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://alxshelepenok.github.com/gatsby-starter-lumen/posts/humane-typography-in-the-digital-age/</link><guid isPermaLink="false">https://alxshelepenok.github.com/gatsby-starter-lumen/posts/humane-typography-in-the-digital-age/</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.&lt;/p&gt;
 &lt;p&gt;The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.&lt;/p&gt;
 &lt;p&gt;But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.&lt;/p&gt;
 &lt;h2&gt;The first transition&lt;/h2&gt;
@@ -18,10 +18,10 @@
         style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;42-line-bible.jpg&quot;
         title=&quot;&quot;
-        src=&quot;/risman.id/static/6d93cbc4956a854d4c4369f0e281e7f3-c591d.jpg&quot;
-        srcset=&quot;/risman.id/static/6d93cbc4956a854d4c4369f0e281e7f3-205cc.jpg 240w,
-/risman.id/static/6d93cbc4956a854d4c4369f0e281e7f3-6e206.jpg 480w,
-/risman.id/static/6d93cbc4956a854d4c4369f0e281e7f3-c591d.jpg 800w&quot;
+        src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3-c591d.jpg&quot;
+        srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3-205cc.jpg 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3-6e206.jpg 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3-c591d.jpg 800w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -66,11 +66,11 @@
         style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;type-through-time.jpg&quot;
         title=&quot;&quot;
-        src=&quot;/risman.id/static/eaa988471fd2b61a1d4d313d0d9a5d23-fa9d5.jpg&quot;
-        srcset=&quot;/risman.id/static/eaa988471fd2b61a1d4d313d0d9a5d23-30a96.jpg 240w,
-/risman.id/static/eaa988471fd2b61a1d4d313d0d9a5d23-288d4.jpg 480w,
-/risman.id/static/eaa988471fd2b61a1d4d313d0d9a5d23-fa9d5.jpg 960w,
-/risman.id/static/eaa988471fd2b61a1d4d313d0d9a5d23-ba4a0.jpg 1250w&quot;
+        src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23-fa9d5.jpg&quot;
+        srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23-30a96.jpg 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23-288d4.jpg 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23-fa9d5.jpg 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23-ba4a0.jpg 1250w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -86,8 +86,8 @@
 	
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 374px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.3422459893048%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAFxLWysRQY5WnDA2H//xAAcEAADAAIDAQAAAAAAAAAAAAABAgMAEgQRIRP/2gAIAQEAAQUC5FiMDUm033Ukbd4WINpanzEkNW9WAH0z/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHRABAAEDBQAAAAAAAAAAAAAAACEBETECECJBUf/aAAgBAQAGPwK2lSV0uSFfKs9JSxt//8QAHhABAAICAwADAAAAAAAAAAAAAQARITFBUWEQcbH/2gAIAQEAAT8haWqts7QPCfkM9XSRSvu7lmqa3jUTcXMuesp9xxe0Zw5YBACey1wx58f/2gAMAwEAAgADAAAAENACDP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB8QAQACAgICAwAAAAAAAAAAAAEAESExQVEQYYGR8P/aAAgBAQABPxBl5wDa9Rqwam03zdmYaWZWmFuNBHC3l+Y3BWWpn0b7YCN6H71KGylvZtPuUGal3FhmyngqPJRoWRdr5JYx4//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gutenberg&quot; title=&quot;&quot; src=&quot;/risman.id/static/3e20438298edd3a3fa746766d803f379-30bfc.jpg&quot; srcset=&quot;/risman.id/static/3e20438298edd3a3fa746766d803f379-89753.jpg 240w,
-/risman.id/static/3e20438298edd3a3fa746766d803f379-30bfc.jpg 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Gutenberg&quot; title=&quot;&quot; src=&quot;/static/3e20438298edd3a3fa746766d803f379-30bfc.jpg&quot; srcset=&quot;/static/3e20438298edd3a3fa746766d803f379-89753.jpg 240w,
+/static/3e20438298edd3a3fa746766d803f379-30bfc.jpg 374w&quot; sizes=&quot;(max-width: 374px) 100vw, 374px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -103,9 +103,9 @@
 	
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 754px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 128.91246684350133%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAIAAAA44esqAAAACXBIWXMAAAsSAAALEgHS3X78AAAET0lEQVQ4yzWUVUstXRjH5wP4GcQLxQtRUcS6UQywFURfu7u7u7u7u7sTO89Wt4qKoqAgggriJ9D3N3ufsy6GmTVP/ONZS/j6+jo6Orq5uZFKpRcXF3/+rb29PfYlEsnJyQmfW1tbOzs7u7u7h4eHKysrq6ur19fXwsbGRnJycmRkJM+KioqEhIS0tLSOjo6IiIigoCBfX18fH5+8vDz2ifH39w8MDCwqKgoNDc3NzRXW1tYKCwvd3d35FxISQqizs3NUVJSrq6ujo6OHh0d3dzeZRPMZHh5ua2sbFxcXGxubnZ0trK+vk8A/Pz8/fqipqamoqCgrK6urqyspKWloaBgaGvb395uYmNjZ2ZFjbW1tZmZmaWmZmZkpnJ2dQbW1tdXb29vLywtgFDI2NiZHW1s7NTU1MTGRX+3t7bSdnp7mhdI6OjoUEtBpcXERwuQnJSXl5OTU19fTpLKyMjo6GjjHx8fQycjImJ2dzc/PJ8DJyUlPT4+6wunpaVdXV3V19cDAABrwglq0Qjw0QzCMQMLS0lJwKSgoxMfHQ0FVVZV+wuXlJbo3NDRArKysLCsrq6SkhIZgtrKyCgsLwzAqAh6oLi4uIyMj5ubmioqKWCBQeHl5uaenBzIpKSkQdnBwCA4Opqe+vr6pqSn7jY2NoC0oKMCCqqoqT09PsJSXl4vJm5ubYIBSeno6qAICAuiPc/RBttraWijAiLrYgUMxMTHUqqmpEZihiYmJuro6IoBEDq62tbWhCvMABIREDlrhOT2Li4sByJzAVOSMVSC/v7+HM2mjo6NTU1PyqWJIkR3mQENzoGENJtFJ7Ly9vd3U1ESlmZkZmFMYPxcWFujW3NyMeIAEAsZgCoONkfQHFyoKzP3Ly8uGbCE7W3RGG0QCBcZaWFjY29vTU1dXV1NTs6WlhSmAM1oInJWnp6elpaWHhwdo0JOZOz8/5zfKyW1HcESGs5ub29jYGC7IZRc7f39/393doRydGU9w9vb2Dg4OUhsUBCE1jEg2MjKiFi4y2GgskAA9mLCL7IhBNBNGCRsbG9SWK4dPGAFzgvmks+gz6nHohoaGmF6SQc4TkTs7OzmtKEwfRP35+fn8/Hx+fn57e+OcUxoVxCMJYdRCevSkClDhAiKwcNQpigVosb+/j+eYypPJwyPxJiF5bm4OncbHx5lwqlCRG4danE1kgyGTJ+eFEHjBIfmbTBomE422EGaAyCeCI2lgYMCoM6eQTJEtJoJaHDImSsD3x8dHQGppaf0nW/CUX0lMFTcOnVGLNE47+KlLc8QXk1Hl9/eXK4ExYovBhPbk5GRfXx/A5FriHPYy+fAaHh7mCMEfaKJgJN/e3sIQ5nhGNHFYQiH+Uoh9EnjyTj772CFegFhF8uvrK/9II2h+fh5vILIuW0DblC10JZkY5ofSos/v7+9IRSWQcF1JZIvxvLq64lqXyhY7BwcHxBDJOPOClx8fH/8DmjVnDMeEMssAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Early Printing Press&quot; title=&quot;&quot; src=&quot;/risman.id/static/9ec265253f068855f00558a9be7f3e03-6451a.png&quot; srcset=&quot;/risman.id/static/9ec265253f068855f00558a9be7f3e03-0eb38.png 240w,
-/risman.id/static/9ec265253f068855f00558a9be7f3e03-55cb9.png 480w,
-/risman.id/static/9ec265253f068855f00558a9be7f3e03-6451a.png 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;Early Printing Press&quot; title=&quot;&quot; src=&quot;/static/9ec265253f068855f00558a9be7f3e03-6451a.png&quot; srcset=&quot;/static/9ec265253f068855f00558a9be7f3e03-0eb38.png 240w,
+/static/9ec265253f068855f00558a9be7f3e03-55cb9.png 480w,
+/static/9ec265253f068855f00558a9be7f3e03-6451a.png 754w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -149,13 +149,13 @@
         style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Movable metal type, and composing stick, descended from Gutenberg&apos;s press. Photo by Willi Heidelbach. Licensed under CC BY 2.5&quot;
         title=&quot;&quot;
-        src=&quot;/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-fa9d5.jpg&quot;
-        srcset=&quot;/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-30a96.jpg 240w,
-/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-288d4.jpg 480w,
-/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-fa9d5.jpg 960w,
-/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-78106.jpg 1440w,
-/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-fb391.jpg 1920w,
-/risman.id/static/0d1540b9a8fca9db753ad10ae0a3427e-fd33b.jpg 2288w&quot;
+        src=&quot;/static/0d1540b9a8fca9db753ad10ae0a3427e-fa9d5.jpg&quot;
+        srcset=&quot;/static/0d1540b9a8fca9db753ad10ae0a3427e-30a96.jpg 240w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e-288d4.jpg 480w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e-fa9d5.jpg 960w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e-78106.jpg 1440w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e-fb391.jpg 1920w,
+/static/0d1540b9a8fca9db753ad10ae0a3427e-fd33b.jpg 2288w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -193,12 +193,12 @@
         style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
         title=&quot;&quot;
-        src=&quot;/risman.id/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-fa9d5.jpg&quot;
-        srcset=&quot;/risman.id/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-30a96.jpg 240w,
-/risman.id/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-288d4.jpg 480w,
-/risman.id/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-fa9d5.jpg 960w,
-/risman.id/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-78106.jpg 1440w,
-/risman.id/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-5837c.jpg 1800w&quot;
+        src=&quot;/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-fa9d5.jpg&quot;
+        srcset=&quot;/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-30a96.jpg 240w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-288d4.jpg 480w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-fa9d5.jpg 960w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-78106.jpg 1440w,
+/static/2c2b7012cc7a218b86a2e5f4fdd1b9c7-5837c.jpg 1800w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -247,12 +247,12 @@
         style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
         title=&quot;&quot;
-        src=&quot;/risman.id/static/a3057b79175cdcf4a107e8cc2c8f8325-fa9d5.jpg&quot;
-        srcset=&quot;/risman.id/static/a3057b79175cdcf4a107e8cc2c8f8325-30a96.jpg 240w,
-/risman.id/static/a3057b79175cdcf4a107e8cc2c8f8325-288d4.jpg 480w,
-/risman.id/static/a3057b79175cdcf4a107e8cc2c8f8325-fa9d5.jpg 960w,
-/risman.id/static/a3057b79175cdcf4a107e8cc2c8f8325-78106.jpg 1440w,
-/risman.id/static/a3057b79175cdcf4a107e8cc2c8f8325-5837c.jpg 1800w&quot;
+        src=&quot;/static/a3057b79175cdcf4a107e8cc2c8f8325-fa9d5.jpg&quot;
+        srcset=&quot;/static/a3057b79175cdcf4a107e8cc2c8f8325-30a96.jpg 240w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325-288d4.jpg 480w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325-fa9d5.jpg 960w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325-78106.jpg 1440w,
+/static/a3057b79175cdcf4a107e8cc2c8f8325-5837c.jpg 1800w&quot;
         sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
       /&gt;
     &lt;/span&gt;
@@ -275,12 +275,12 @@
         style=&quot;width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
         title=&quot;&quot;
-        src=&quot;/risman.id/static/07d3a9ebe902d793eab5fe701b12a6e2-693dc.jpg&quot;
-        srcset=&quot;/risman.id/static/07d3a9ebe902d793eab5fe701b12a6e2-458f9.jpg 240w,
-/risman.id/static/07d3a9ebe902d793eab5fe701b12a6e2-80f9e.jpg 480w,
-/risman.id/static/07d3a9ebe902d793eab5fe701b12a6e2-693dc.jpg 960w,
-/risman.id/static/07d3a9ebe902d793eab5fe701b12a6e2-bc68f.jpg 1440w,
-/risman.id/static/07d3a9ebe902d793eab5fe701b12a6e2-71239.jpg 1800w&quot;
+        src=&quot;/static/07d3a9ebe902d793eab5fe701b12a6e2-693dc.jpg&quot;
+        srcset=&quot;/static/07d3a9ebe902d793eab5fe701b12a6e2-458f9.jpg 240w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2-80f9e.jpg 480w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2-693dc.jpg 960w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2-bc68f.jpg 1440w,
+/static/07d3a9ebe902d793eab5fe701b12a6e2-71239.jpg 1800w&quot;
         sizes=&quot;(max-width: 432px) 100vw, 432px&quot;
       /&gt;
     &lt;/span&gt;
